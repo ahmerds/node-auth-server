@@ -11,7 +11,7 @@
     "tslint": "tslint -c tslint.json -p tsconfig.json"
   },
   "author": "Gizosoft Technologies",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@types/bcrypt": "^3.0.0",
     "@types/compression": "^0.0.36",
