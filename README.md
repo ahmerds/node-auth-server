@@ -43,7 +43,7 @@ to start a development server.
 
 ## Deployment
 
-Can be deployed with docker
+Can be deployed with docker or using your Node.js deployment strategy
 
 ## Built With
 
