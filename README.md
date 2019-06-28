@@ -56,8 +56,8 @@ Can be deployed with docker
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://opensource.org/licenses/MIT) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) file for details
 
 ## Notes
 
-If you'll like to see any feature added, raise an issue.
+If you'll like to see any feature added, Feel free to raise an issue.
